@@ -1,4 +1,4 @@
-# tensorboard
+# tensorboard notebooks
 Notebooks for Tensorboard API usage and Boilerplate Code
 
 Data Visualisation with Tensorboard
